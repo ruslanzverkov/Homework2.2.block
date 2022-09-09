@@ -1,7 +1,6 @@
 public class Truck extends Car {
 
 
-
         public String modelName;
         public int wheelsCount;
 
